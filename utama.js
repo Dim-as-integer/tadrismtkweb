@@ -1,5 +1,5 @@
 window.onload = function () { 
-$('body').css("background-image", "url('https://i.pinimg.com/originals/81/6d/fd/816dfd710806e20aa40a7cd8c76d2e2d.jpg')");
+$('body').css("background-image", "url('http://parade.com/wp-content/uploads/2013/05/maths-ftr.jpg')");
 $("#pengumuman").css({"width": 49%});
 $("#lowongan").hide();
 $("#a_middle").hide();
