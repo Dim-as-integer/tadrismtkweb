@@ -2,5 +2,4 @@ $(this).css("background-image", "url('https://i.pinimg.com/originals/81/6d/fd/81
 $("#lowongan").hide();
 $("#a_middle").hide();
 $("#lowongan-block-title").hide();
-$("#event").hide();
-$("#pmb").hide();
+
